@@ -4,4 +4,4 @@ After creating the dataset, preprocessing of the data was done to resize the seq
 
 After preprocessing, Five fold validation data was generated. The code is in 'Generate 5 fold from preprocessed orthohantavirus train dataset.ipynb'.
 
-Finally, 'BiLSTM_VHP_Orthohantavirus model training and testing.ipynb' file contains the code of building, training and testing the model.
+Finally, 'BiLSTM_VHP_Orthohantavirus model training and testing.ipynb' file contains the code of creating, training and testing the model.

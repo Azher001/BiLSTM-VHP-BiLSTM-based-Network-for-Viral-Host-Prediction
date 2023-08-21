@@ -1,4 +1,4 @@
-1) The first file is the 'Creating rabies lyssavirus dataset from NCBI Virus data.ipynb' file. The file contains the code for creating the rabies lyssavirus dataset. Using the codes of this file, the dataset was generated from the curated rabies lyssavirus data from NCBI Virus Data.
+1) The first file is the 'Creating rabies lyssavirus dataset from NCBI Virus data.ipynb' file. The file contains the code for creating the rabies lyssavirus dataset. Using the codes of this file, the dataset was generated from the curated rabies lyssavirus data from NCBI Virus Database.
 
 2) After creating the dataset, preprocessing of the data was done to resize the sequences to 400 bases and to replace the unknown characters with 'N'. The codes are in 'rabies lyssavirus Dataset Preprocessing.ipynb' file.
 
